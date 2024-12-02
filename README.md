@@ -19,7 +19,7 @@ The Campus Safety App is a mobile application designed to enhance student safety
 3. Use Case Diagram and Scenario Analysis [here](https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/UseCase%20Diagram.md).
 4. Validating Requirements through Paper Prototyping.
 5. Risk Analysis [here](https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/Risk%20Analysis%20Table.md).
-6. Project Planning and Management [](Gantt Chart created using MS Project)
+6. Project Planning and Management [Gantt Chart](https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/Beef%20And%20Broccoli%20Gantt%20Chart.PNG)
 7. Software Proposal [here](https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/Software%20Proposal.md).
 8. Implementation of a landing page for the product (link to live website) [here](https://babcock-seng.github.io/campus-safety-app-beef-and-broccoli-e/).
 
@@ -38,7 +38,7 @@ The Campus Safety App is a mobile application designed to enhance student safety
 ## Gantt Chart
 A Gantt Chart has been created using MS Project to outline the phases, tasks, and resources required for the project. The chart details the timeline of each task and the estimated days/hours needed for completion.
 
-![Gantt Chart](Be)
+![Gantt Chart](https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/Beef%20And%20Broccoli%20Gantt%20Chart.PNG)
 
 ## Live Website
 The landing page for the Campus Safety App can be accessed [here](https://babcock-seng.github.io/campus-safety-app-beef-and-broccoli-e/).
