@@ -14,7 +14,7 @@ The Campus Safety App is a mobile application designed to enhance student safety
 - **Geolocation Sharing**: Helps in emergencies by sharing the user’s location with security services.
 
 ## Deliverables
-1. Functional and Non-functional Requirements [here](link_to_live_website).
+1. Functional and Non-functional Requirements    [Requiremnts document](https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/Requirements%20Analysis.md).
 2. Appropriate Development Process Model (with justification)[here](link_to_live_website).
 3. Use Case Diagram and Scenario Analysis[here](link_to_live_website).
 4. Validating Requirements through Paper Prototyping.
