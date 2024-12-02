@@ -49,6 +49,6 @@ The Campus Safety App project has been successfully concluded, offering a vital 
 ## Contact
 For any inquiries or feedback regarding the Campus Safety App, please reach out to:
 
-- **Project Manager**: [Olikenyo Oluwanifemi] - [Your Email](mailto:phillipnifemi@gmail.com)
+- **Project Manager**: Olikenyo Oluwanifemi - [My Email](mailto:phillipnifemi@gmail.com)
 - **GitHub Repository**: [Campus Safety App Repository](https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/)
 
