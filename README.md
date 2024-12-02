@@ -14,13 +14,13 @@ The Campus Safety App is a mobile application designed to enhance student safety
 - **Geolocation Sharing**: Helps in emergencies by sharing the user’s location with security services.
 
 ## Deliverables
-1. Functional and Non-functional Requirements    [Requiremnts document](https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/Requirements%20Analysis.md).
-2. Appropriate Development Process Model (with justification)[here](link_to_live_website).
-3. Use Case Diagram and Scenario Analysis[here](link_to_live_website).
-4. Validating Requirements through Paper Prototyping.
-5. Risk Analysis[here](link_to_live_website).
-6. Project Planning and Management (Gantt Chart created using MS Project)
-7. Software Proposal[here](link_to_live_website).
+1. [Functional and Non-functional Requirements] (https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/Requirements%20Analysis.md).
+2. [Appropriate Development Process Model (with justification)] (https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/Process%20Models%20and%20Scenario%20Analysis.md).
+3. [Use Case Diagram and Scenario Analysis] (link_to_live_website).
+4. [Validating Requirements through Paper Prototyping.]
+5. [Risk Analysis] (link_to_live_website).
+6. [Project Planning and Management (Gantt Chart created using MS Project)]
+7. [Software Proposal] (link_to_live_website).
 8. Implementation of a landing page for the product (link to live website)[here](https://babcock-seng.github.io/campus-safety-app-beef-and-broccoli-e/).
 
 ## Project Team
