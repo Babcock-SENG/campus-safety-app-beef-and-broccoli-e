@@ -18,7 +18,7 @@ The Campus Safety App is a mobile application designed to enhance student safety
 2. Appropriate Development Process Model (with justification) [here](https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/Process%20Models%20and%20Scenario%20Analysis.md).
 3. Use Case Diagram and Scenario Analysis [here](https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/UseCase%20Diagram.md).
 4. Validating Requirements through Paper Prototyping.
-5. Risk Analysis [](link_to_live_website).
+5. Risk Analysis [here](https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/Risk%20Analysis%20Table.md).
 6. Project Planning and Management [](Gantt Chart created using MS Project)
 7. Software Proposal [here](https://github.com/Babcock-SENG/campus-safety-app-beef-and-broccoli-e/blob/main/Software%20Proposal.md).
 8. Implementation of a landing page for the product (link to live website) [here](https://babcock-seng.github.io/campus-safety-app-beef-and-broccoli-e/).
@@ -27,11 +27,11 @@ The Campus Safety App is a mobile application designed to enhance student safety
 ### Active Members
 | Name                     | Role                     | Attendance  |
 |--------------------------|--------------------------|-------------|
-| [Olikenyo Oluwanifemi Fiyinfoluwa]         | Project Manager           | [Yes]    |
-| [Omoware Oghenekevwe Roy]         | UI/UX Designer            | [Yes]    |
-| [Onikosi Emmanuel Oluwatimilehin]         | Design Lead          | [Yes]    |
-| [Olorunda Olamide Raphael]         | Quality Assurance         | [No]    |
-| [Olanade Alexander Abiodun]         | Business Analyst          | [Yes]    |
+| Olikenyo Oluwanifemi Fiyinfoluwa         | Project Manager           | [Yes]    |
+| Omoware Oghenekevwe Roy         | UI/UX Designer            | [Yes]    |
+| Onikosi Emmanuel Oluwatimilehin         | Design Lead          | [Yes]    |
+| Olorunda Olamide Raphael         | Quality Assurance         | [No]    |
+| Olanade Alexander Abiodun         | Business Analyst          | [Yes]    |
 | Oluyemi Oluwafolasekemi Ibiyemi     | Requirements Specialist | [Yes]   |
 
 
