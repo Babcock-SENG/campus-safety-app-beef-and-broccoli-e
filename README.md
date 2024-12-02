@@ -30,7 +30,7 @@ The Campus Safety App is a mobile application designed to enhance student safety
 | Olikenyo Oluwanifemi Fiyinfoluwa         | Project Manager           | [Yes]    |
 | Omoware Oghenekevwe Roy         | UI/UX Designer            | [Yes]    |
 | Onikosi Emmanuel Oluwatimilehin         | Design Lead          | [Yes]    |
-| Olorunda Olamide Raphael         | Quality Assurance         | [No]    |
+| Olorunda Olamide Raphael         | Quality Assurance         | [Yes]    |
 | Olanade Alexander Abiodun         | Business Analyst          | [Yes]    |
 | Oluyemi Oluwafolasekemi Ibiyemi     | Requirements Specialist | [Yes]   |
 
@@ -38,7 +38,7 @@ The Campus Safety App is a mobile application designed to enhance student safety
 ## Gantt Chart
 A Gantt Chart has been created using MS Project to outline the phases, tasks, and resources required for the project. The chart details the timeline of each task and the estimated days/hours needed for completion.
 
-![Gantt Chart](link_to_gantt_chart_image)
+![Gantt Chart](Be)
 
 ## Live Website
 The landing page for the Campus Safety App can be accessed [here](https://babcock-seng.github.io/campus-safety-app-beef-and-broccoli-e/).
