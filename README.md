@@ -21,7 +21,7 @@ The Campus Safety App is a mobile application designed to enhance student safety
 5. Risk Analysis[here](link_to_live_website).
 6. Project Planning and Management (Gantt Chart created using MS Project)
 7. Software Proposal[here](link_to_live_website).
-8. Implementation of a landing page for the product (link to live website)[here](link_to_live_website).
+8. Implementation of a landing page for the product (link to live website)[here](https://babcock-seng.github.io/campus-safety-app-beef-and-broccoli-e/).
 
 ## Project Team
 ### Active Members
@@ -30,8 +30,10 @@ The Campus Safety App is a mobile application designed to enhance student safety
 | [Olikenyo Oluwanifemi Fiyinfoluwa]         | Project Manager           | [Yes]    |
 | [Omoware Oghenekevwe Roy]         | UI/UX Designer            | [Yes]    |
 | [Onikosi Emmanuel Oluwatimilehin]         | Design Lead          | [Yes]    |
-| [Olurunda Olamide Raphael]         | Quality Assurance         | [No]    |
+| [Olorunda Olamide Raphael]         | Quality Assurance         | [No]    |
 | [Olanade Alexander Abiodun]         | Business Analyst          | [Yes]    |
+| Oluyemi Oluwafolasekemi Ibiyemi     | Requirements Specialist | [Yes]   |
+
 
 ## Gantt Chart
 A Gantt Chart has been created using MS Project to outline the phases, tasks, and resources required for the project. The chart details the timeline of each task and the estimated days/hours needed for completion.
@@ -39,7 +41,7 @@ A Gantt Chart has been created using MS Project to outline the phases, tasks, an
 ![Gantt Chart](link_to_gantt_chart_image)
 
 ## Live Website
-The landing page for the Campus Safety App can be accessed [here](link_to_live_website).
+The landing page for the Campus Safety App can be accessed [here](https://babcock-seng.github.io/campus-safety-app-beef-and-broccoli-e/).
 
 ## Conclusion
 The Campus Safety App project has been successfully concluded, offering a vital tool for enhancing campus safety and providing students with immediate access to essential services.
